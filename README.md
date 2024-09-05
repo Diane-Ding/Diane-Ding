@@ -1,9 +1,11 @@
-👋 Hi, I’m @Diane-Ding
+👋 Hi, I’m Diane Ding
 
-🇨🇦 Currently studying at University of Waterloo
+💼 Software Development Engineer @ Amazon
+
+🇨🇦 Graduated from the University of Waterloo
 
 💻 Major in Data Science
 
-👧🏻 Please find my personal page at https://diane-ding.github.io/
+👧 Personal page 👉 https://diane-ding.github.io/
 
-🔗 LinkedIn: Diane Ding https://www.linkedin.com/in/diane-ding-568085227/
+🔗 LinkedIn 👉 https://www.linkedin.com/in/diane-ding-568085227/
