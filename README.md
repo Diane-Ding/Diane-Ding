@@ -6,6 +6,4 @@
 
 💻 Major in Data Science
 
-👧 Personal page 👉 https://diane-ding.github.io/
-
 🔗 LinkedIn 👉 https://www.linkedin.com/in/diane-ding-568085227/
